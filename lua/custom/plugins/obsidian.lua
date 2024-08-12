@@ -21,7 +21,7 @@ return {
     workspaces = {
       {
         name = 'personal',
-        path = '/Users/mariocorradi/Google Drive/My Drive/Obsidian/Knowledge/Second Brain',
+        path = '/Users/mariocorradi/Documents/Second Brain',
       },
     },
     ui = {
