@@ -580,6 +580,7 @@ require('lazy').setup({
       local servers = {
         -- clangd = {},
         gopls = {},
+        -- jsonls = {},
         -- golangci_lint_ls = {},
         -- pyright = {},
         -- rust_analyzer = {},
